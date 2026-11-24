@@ -1,0 +1,6 @@
+{
+  "name": "MediStock – Medical Inventory Expiry Tracking & Stock Exchange",
+  "description": "Medical inventory expiry tracking, batch-level stock monitoring, and inter-facility healthcare stock exchange management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
